@@ -13,7 +13,7 @@ The preview launcher does not publish the website or make a GitHub connection.
 ## Edit the website
 
 - `index.html`: photo, introduction, contact links, education/experience, selected publications.
-- `publications.html`: all 22 papers in the September 21, 2026 CV, grouped by publication year (preprints by arXiv year).
+- `publications.html`: all 22 papers in the September 21, 2026 CV, grouped by arXiv submission year, newest first.
 - `notes.html`: research-notes page. Add your chosen PDFs to `notes/`, then add links following the example in `notes/README.md`.
 - `seminars.html`: 11 selected invited seminars and conference talks from the CV.
 - `style.css`: typography, colors, spacing, and mobile layouts.
@@ -24,7 +24,7 @@ The biography is draft copy for your review. The notes page intentionally has no
 
 ## Publish with GitHub Pages
 
-This folder is ready for GitHub Pages, but has not been uploaded or published.
+The website source is hosted at https://github.com/DuwedgeDu/academic-website. GitHub Pages has not yet been enabled.
 
 1. Create a repository named `YOUR-USERNAME.github.io` for a personal root website (or use any repository name for a project website).
 2. Upload this folder's contents to the repository root: `index.html` must be at the top level, not inside a second website folder. Keep the `assets` and `notes` subfolders. Include `.nojekyll` when uploading through Git.
